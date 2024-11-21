@@ -19,5 +19,5 @@ Now we can clone the repo using ssh way
 If we did any changes locally and want to push it to github
 
 - git add .
-- git add .
+- git commit -m "first commit"
 - git push -u origin / git push origin master
